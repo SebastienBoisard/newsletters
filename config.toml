@@ -1,0 +1,12 @@
+[database]
+name = "newsletters_database" # database name
+
+    [database.user]
+    name = "newsletters_user" # SQL user name
+    password = "newsletters_password" # SQL user password
+
+    [database.config]
+    host = "localhost"
+    port = 3307
+
+

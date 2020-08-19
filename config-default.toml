@@ -1,0 +1,7 @@
+[database]
+name = "xxxxx" # database name
+
+    [database.user]
+    name = "xxxx" # SQL user name
+    password = "xxxxx" # SQL user password
+
